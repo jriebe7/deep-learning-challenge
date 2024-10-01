@@ -1,10 +1,10 @@
-## deep-learning-challenge
+# deep-learning-challenge
 
-# Overview of the analysis: Explain the purpose of this analysis.
+## Overview of the analysis: Explain the purpose of this analysis.
 
-# Results:
+## Results:
 
-# Data Preprocessing
+## Data Preprocessing
 
 What variable(s) are the target(s) for your model?
 What variable(s) are the features for your model?
