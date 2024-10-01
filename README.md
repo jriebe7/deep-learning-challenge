@@ -5,6 +5,8 @@ The purpose of this anaylis is to look at data provided which contains more than
 
 ## Results:
 
+!(https://github.com/jriebe7/deep-learning-challenge/blob/main/model_final.JPG)
+!(https://github.com/jriebe7/deep-learning-challenge/blob/main/model_accuracy.JPG)
 ## Data Preprocessing:
 
 ### What variable(s) are the target(s) for your model? 
