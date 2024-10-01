@@ -4,6 +4,7 @@
 The purpose of this anaylis is to look at data provided which contains more than 34,000 organizations that have received funding from Alphabet Soup over the years and to determine if a binary classifier is a viable option that can predict whether applicants will be successful if funded by Alphabet Soup.
 
 ## Results:
+After running multiple variants of the model, the final version I ran was able to predict with ~73% accurracy
 
 ![App Screenshot](https://github.com/jriebe7/deep-learning-challenge/blob/main/model_final.JPG)
 ![App Screenshot](https://github.com/jriebe7/deep-learning-challenge/blob/main/model_accuracy.JPG)
@@ -19,7 +20,4 @@ The purpose of this anaylis is to look at data provided which contains more than
 
 ### Compiling, Training, and Evaluating the Model
 
-How many neurons, layers, and activation functions did you select for your neural network model, and why?
-Were you able to achieve the target model performance?
-What steps did you take in your attempts to increase model performance?
-Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
+I tried multiple versions with my models, initially starting with 2 hidden layers, which was able to predict ~72% accurracy.  I then played around with adding more layers, few and more epochs, more neurons and layers, and consistently received similar results, and in the end I was not able to break the 75% threshold.
